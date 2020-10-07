@@ -27,7 +27,7 @@ __Android__
 
 __Unity__
 * C#
-* MAXST AR, Serial
+* MAXST AR, Photon
 
 __Server__
 * NodeJS
@@ -38,6 +38,9 @@ __Process__
 * 이슈관리, 버전관리 - Git
 
 # 프로젝트
+
+## 작성 중 입니다.
+
 ## [BluePrint][link]
 
 [link]: https://github.com/Team-an/blueprint
@@ -68,6 +71,16 @@ __Process__
 * 사용한 Skill 또는 지식 :
 
 * * *
+## [CasualGame][link]
+
+[link]: https://github.com/PyeonSangJin/unityCasualGame
+
+* 기간 :
+* 소개 :
+* 역할 :
+* 사용한 Skill 또는 지식 :
+
+* * *
 ## [RealTime Food][link]
 
 [link]: https://github.com/RealtimeFood
@@ -89,16 +102,6 @@ __Process__
 
 * * *
 ## What Eat?
-
-* 기간 :
-* 소개 :
-* 역할 :
-* 사용한 Skill 또는 지식 :
-
-* * *
-## [title][link]
-
-[link]: #
 
 * 기간 :
 * 소개 :
