@@ -155,6 +155,7 @@ __Process__
 
 
 * 이미지
+![savingelectronic1](https://github.com/PyeonSangJin/resume/blob/main/image/savingelectronic1.PNG)
 
 * * *
 ## What Eat?
@@ -172,3 +173,5 @@ __Process__
 
 
 * 이미지
+![whateat1](https://github.com/PyeonSangJin/resume/blob/main/image/whateat1.PNG)
+![whateat2](https://github.com/PyeonSangJin/resume/blob/main/image/whateat2.PNG)
