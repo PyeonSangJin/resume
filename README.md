@@ -136,6 +136,9 @@ __Process__
 
 
 * 이미지
+![realtimefood1](https://github.com/PyeonSangJin/resume/blob/main/image/3-1.png)
+![realtimefood2](https://github.com/PyeonSangJin/resume/blob/main/image/3-2.png)
+![realtimefood3](https://github.com/PyeonSangJin/resume/blob/main/image/3-3.png)
 
 * * *
 ## [Saving_Electronic][link1]
@@ -155,7 +158,7 @@ __Process__
 
 
 * 이미지
-![savingelectronic1](https://github.com/PyeonSangJin/resume/blob/main/image/savingelectronic1.PNG)
+![savingelectronic1](https://github.com/PyeonSangJin/resume/blob/main/image/2-1.png)
 
 * * *
 ## What Eat?
@@ -173,5 +176,5 @@ __Process__
 
 
 * 이미지
-![whateat1](https://github.com/PyeonSangJin/resume/blob/main/image/whateat1.PNG)
-![whateat2](https://github.com/PyeonSangJin/resume/blob/main/image/whateat2.PNG)
+![whateat1](https://github.com/PyeonSangJin/resume/blob/main/image/1-1.png)
+![whateat2](https://github.com/PyeonSangJin/resume/blob/main/image/1-2.png)
