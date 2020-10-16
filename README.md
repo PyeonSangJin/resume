@@ -117,6 +117,7 @@ __Process__
 
 
 * 이미지
+![casualgame](https://github.com/PyeonSangJin/resume/blob/main/image/4-1.png)
 
 * * *
 ## [RealTime Food][link2]
