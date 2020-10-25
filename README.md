@@ -35,6 +35,11 @@ __Server__
 * MongoDB, MariaDB
 * Wowza
 
+__Windows__
+* C
+* C++
+* C#
+
 __Process__
 * 이슈관리, 버전관리 - Git
 
