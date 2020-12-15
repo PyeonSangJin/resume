@@ -10,6 +10,7 @@ __소통을 좋아하는 개발자 편상진입니다.__
 * 특기 : 끝까지 해보기
 
 # 활동 내역
+* The 2020 ICPC Seoul Regional (2020.11)
 * Naver Campus Hackday (2020.04 - 2020.05)
 * 삼성 SDS 동계 대학생 알고리즘 특강 (2020.02)
 * The 2019 ICPC Seoul Regional (2019.11)
