@@ -21,6 +21,13 @@ __소통을 좋아하는 개발자 편상진입니다.__
 * K-Hackathon 제7회 KHackathon VR& AR 앱 개발 챌린지 영남권역 본선 진출 (2019.08)
 
 # 사용 기술
+__Web__
+* HTML5
+* CSS3
+* SASS
+* javascript
+* gulp(taskrunner)
+
 __Android__
 * Java
 * Kotlin
